@@ -1,58 +1,102 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Moein
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Moein Banner"/>
+</p>
 
-### 💻 Backend Developer | Laravel Enthusiast
+<h1 align="center">Hi 👋 I'm Moein</h1>
 
-I'm a backend developer passionate about building scalable web applications and writing clean, maintainable code. I enjoy learning new technologies and improving my skills through real-world projects.
+<p align="center">
+<strong>Laravel Backend Engineer • Full Stack Web Developer</strong>
+</p>
 
----
+<p align="center">
+I build scalable, secure, and maintainable web applications with Laravel, modern PHP, and clean architecture.
+</p>
 
-## 🚀 Tech Stack
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" title="PHP"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" title="Laravel"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=FF2D20&center=true&vCenter=true&width=650&lines=Laravel+Developer;Backend+Engineer;REST+API+Developer;Docker+Enthusiast;Always+Learning" />
 </p>
 
 ---
 
-### 🌱 Currently Learning
+# 👨‍💻 About Me
 
-* ⚡ Advanced Laravel Architecture
-* 🐳 Docker & Containerization
-* 🏗 Clean Code & Design Patterns
-* 🚀 RESTful API Development
+I'm a passionate Full Stack Web Developer with a strong focus on backend development.
 
----
+I enjoy building real-world products that are clean, scalable, and easy to maintain.
 
-### 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-![](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true)
+My goal is not only to make applications work, but to make them reliable, performant, and enjoyable to develop.
 
 ---
 
-### 🐍 Contribution Snake
+# 🚀 Tech Stack
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,docker,linux,mysql,git,github,vscode,postman"/>
 
-### 💡 Quote
-
-> *"First, solve the problem. Then, write the code."*
+</p>
 
 ---
 
-### 🤝 Let's Connect
+# 🌟 Featured Projects
 
-* 💼 GitHub: https://github.com/Dev-Moein
-* 📧 Email: moeenfox140@gmail.com
+| Project               | Description                                                                                      |
+| --------------------- | ------------------------------------------------------------------------------------------------ |
+| 🛒 **Clothing Store** | Modern Laravel e-commerce application with authentication, shopping cart and product management. |
+| 🍔 **Food Ecommerce** | Complete food ordering system with admin dashboard and REST APIs.                                |
+| ⚙️ **Admin Panel**    | Dashboard for managing users, products and application resources.                                |
+| ✅ **Todo App**        | Lightweight CRUD application demonstrating clean architecture principles.                        |
+
+---
+
+# 🎯 Current Focus
+
+* Laravel Best Practices
+* Software Architecture
+* REST API Design
+* Docker & Deployment
+* Performance Optimization
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dev-Moein&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Moein&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Dev-Moein&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Moein&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/Dev-Moein">GitHub</a> • <a href="mailto:moeenfox140@gmail.com">Email</a>
+
+</p>
+
+---
+
+<p align="center">
+<i>"Clean code isn't just about syntax. It's about creating software that people can trust, understand, and improve."</i>
+</p>
